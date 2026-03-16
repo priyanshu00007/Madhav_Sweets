@@ -1,7 +1,7 @@
 # 🍴 Madhav Sweets – Premium Indian Confections
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/35c6404c-09de-4004-a428-dd963422a066" alt="madhav Hero" width="100%" />
+  <img src="C:\Users\Hp\Desktop\ambrosia\Ambrosia-Sweets\public\ambrosia_thumbnail.png" alt="madhav Hero" width="100%" />
 
   [![Performance](https://img.shields.io/badge/Performance-95%2B-brightgreen.svg)](#-lighthouse-report)
   [![Accessibility](https://img.shields.io/badge/Accessibility-100-brightgreen.svg)](#-accessibility)
